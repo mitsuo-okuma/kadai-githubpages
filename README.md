@@ -1,2 +1,1 @@
-# new
-# kadai-githubpages
+# Hello World
